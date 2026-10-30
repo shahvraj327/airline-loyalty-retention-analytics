@@ -136,14 +136,3 @@ The `.pbix` also contains seven analysis pages (Que 1 to Que 7) used to answer e
 3. To refresh from source, place the CSV files listed in `data/README.md` in a local folder and update the data source paths in Power Query (Transform data, then Data source settings).
 4. Start on the **Executive Summary** page and use the slicers on the Retention page to filter by province, loyalty card and year.
 
-## Configuration
-
-No API keys or environment variables are required. The only configuration is the local path to the source CSV files.
-
-## Contributing
-
-This is primarily a personal portfolio project. Suggestions are welcome through issues or pull requests.
-
-## License
-
-All rights reserved. This project is not currently licensed for reuse or redistribution.
